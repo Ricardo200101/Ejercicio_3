@@ -6,6 +6,9 @@ namespace Ejercicio_3
     {
         static void Main(string[] args)
         {
+            // VICTOR RICARDO ALVAREZ SARAVIA. 
+            // MERARY JULISSA ARAUJO VELASQUEZ. 
+
             // Declaracion de variable. 
 
             int num1, num2, divi;
